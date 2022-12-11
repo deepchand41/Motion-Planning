@@ -56,6 +56,19 @@ Planning is a term that means different things to different groups of people. Ro
         <div class="Card-explore"><span>Explore Algorithm</span></div>
         <button class="Card-button">view more</button>
       </a>
+       
+       
+       <a class="Card" href="{{ site.baseurl }}/Graph Search-Based Motion Planning/Depth First Search/" id="card-4">
+        <div class="Card-thumb">
+            <div class="Card-shadow"></div>
+            <div class="Card-shadow"></div>
+            <div class="Card-shadow"></div>
+            <div class="Card-image" style="background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Depth-first-tree.svg/1200px-Depth-first-tree.svg.png)"></div>
+        </div>
+        <div class="Card-title"><span>Depth First Search</span></div>
+        <div class="Card-explore"><span>Explore Algorithm</span></div>
+        <button class="Card-button">view more</button>
+      </a>
 
 
     </div>
