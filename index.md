@@ -13,7 +13,7 @@ Planning is a term that means different things to different groups of people. Ro
 <div class="Grid ">
 
     <div class="Data-group-name">
-      <h4 > Recognition/Classification </h4>
+      <h4 > Graph Search-Based Motion Planning </h4>
     </div>
 
     <div class="Grid-row">
@@ -23,7 +23,7 @@ Planning is a term that means different things to different groups of people. Ro
           <div class="Card-shadow"></div>
           <div class="Card-shadow"></div>
           <div class="Card-shadow"></div>
-          <div class="Card-image" style="background-image: url(data:image/png)images/search_icon.png)"></div>
+          <div class="Card-image" style="background-image: images/search_icon.png"></div>
         </div>
         <div class="Card-title"><span>General</span></div>
         <div class="Card-explore"><span>Explore more datasets</span></div>
