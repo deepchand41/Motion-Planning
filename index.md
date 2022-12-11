@@ -130,7 +130,7 @@ Planning is a term that means different things to different groups of people. Ro
             <div class="Card-shadow"></div>
             <div class="Card-image" style="background-image: url(https://www.researchgate.net/profile/James-Harrison-30/publication/319896312/figure/fig2/AS:807620436844545@1569563125260/A-fast-marching-tree-FMT-generated-with-learned-samples-for-a-double-integrator.ppm)"></div>
         </div>
-        <div class="Card-title"><span>Depth First Search</span></div>
+        <div class="Card-title"><span>Fast Marching Trees</span></div>
         <div class="Card-explore"><span>Explore Algorithm</span></div>
         <button class="Card-button">view more</button>
       </a>
