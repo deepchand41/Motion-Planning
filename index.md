@@ -18,7 +18,7 @@ Planning is a term that means different things to different groups of people. Ro
 
     <div class="Grid-row">
   
-      <a class="Card" href="{{ site.baseurl }}/01.Graph Search-Based Motion Planning/" id="card-1">
+      <a class="Card" href="{{ site.baseurl }}/01.Graph Search-Based Motion Planning/Dijkstra's Algorithm" id="card-1">
         <div class="Card-thumb">
           <div class="Card-shadow"></div>
           <div class="Card-shadow"></div>
@@ -33,15 +33,15 @@ Planning is a term that means different things to different groups of people. Ro
    
 
 
-      <a class="Card" href="{{ site.baseurl }}/Recognition/Classification/fine_grained/" id="card-5">
+      <a class="Card" href="{{ site.baseurl }}/Graph Search-Based Motion Planning/A* Algorithm/" id="card-2">
         <div class="Card-thumb">
             <div class="Card-shadow"></div>
             <div class="Card-shadow"></div>
             <div class="Card-shadow"></div>
-            <div class="Card-image" style="background-image: url(https://t1.daumcdn.net/cfile/tistory/99681D455F20165D36)"></div>
+            <div class="Card-image" style="background-image: url([https://t1.daumcdn.net/cfile/tistory/99681D455F20165D36](https://www.gatevidyalay.com/wp-content/uploads/2020/01/A-Algorithm-Problem-02.png))"></div>
         </div>
-        <div class="Card-title"><span>Fine Grained</span></div>
-        <div class="Card-explore"><span>Explore more datasets</span></div>
+        <div class="Card-title"><span>A* Algorithm</span></div>
+        <div class="Card-explore"><span>Explore Algorithm</span></div>
         <button class="Card-button">view more</button>
       </a>
 
