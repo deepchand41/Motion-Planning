@@ -26,7 +26,7 @@ Planning is a term that means different things to different groups of people. Ro
           <div class="Card-image" style="background-image: url(https://kissflow.com/hs-fs/hubfs/IT_Operations_icons-22.png?width=314&height=313&name=IT_Operations_icons-22.png)"></div>
         </div>
         <div class="Card-title"><span>Dijkstra's Algorithm</span></div>
-        <div class="Card-explore"><span>Explore more datasets</span></div>
+        <div class="Card-explore"><span>Explore Algorithm</span></div>
         <button class="Card-button">view more</button>
       </a>
 
@@ -38,7 +38,7 @@ Planning is a term that means different things to different groups of people. Ro
             <div class="Card-shadow"></div>
             <div class="Card-shadow"></div>
             <div class="Card-shadow"></div>
-            <div class="Card-image" style="background-image: url([https://t1.daumcdn.net/cfile/tistory/99681D455F20165D36](https://www.gatevidyalay.com/wp-content/uploads/2020/01/A-Algorithm-Problem-02.png))"></div>
+            <div class="Card-image" style="background-image: url(https://www.gatevidyalay.com/wp-content/uploads/2020/01/A-Algorithm-Problem-02.png)"></div>
         </div>
         <div class="Card-title"><span>A* Algorithm</span></div>
         <div class="Card-explore"><span>Explore Algorithm</span></div>
