@@ -9,3 +9,41 @@ Planning is a term that means different things to different groups of people. Ro
       <input type="submit" value="Search" style="display: none;">
     </form>
 </div>
+
+<div class="Grid ">
+
+    <div class="Data-group-name">
+      <h4 > Recognition/Classification </h4>
+    </div>
+
+    <div class="Grid-row">
+  
+      <a class="Card" href="{{ site.baseurl }}/01.Graph Search-Based Motion Planning/" id="card-1">
+        <div class="Card-thumb">
+          <div class="Card-shadow"></div>
+          <div class="Card-shadow"></div>
+          <div class="Card-shadow"></div>
+          <div class="Card-image" style="background-image: url(data:image/png)images/search_icon.png)"></div>
+        </div>
+        <div class="Card-title"><span>General</span></div>
+        <div class="Card-explore"><span>Explore more datasets</span></div>
+        <button class="Card-button">view more</button>
+      </a>
+
+   
+
+
+      <a class="Card" href="{{ site.baseurl }}/Recognition/Classification/fine_grained/" id="card-5">
+        <div class="Card-thumb">
+            <div class="Card-shadow"></div>
+            <div class="Card-shadow"></div>
+            <div class="Card-shadow"></div>
+            <div class="Card-image" style="background-image: url(https://t1.daumcdn.net/cfile/tistory/99681D455F20165D36)"></div>
+        </div>
+        <div class="Card-title"><span>Fine Grained</span></div>
+        <div class="Card-explore"><span>Explore more datasets</span></div>
+        <button class="Card-button">view more</button>
+      </a>
+
+
+    </div>
