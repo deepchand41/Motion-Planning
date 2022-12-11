@@ -23,7 +23,7 @@ Planning is a term that means different things to different groups of people. Ro
           <div class="Card-shadow"></div>
           <div class="Card-shadow"></div>
           <div class="Card-shadow"></div>
-          <div class="Card-image" style="background-image: url(https://github.com/deepchand41/Motion-Planning/blob/ec26f2ce0212a5a7ace89bf513697cc21c032d3c/images/search_icon.png)"></div>
+          <div class="Card-image" style="background-image: url(https://kissflow.com/hs-fs/hubfs/IT_Operations_icons-22.png?width=314&height=313&name=IT_Operations_icons-22.png)"></div>
         </div>
         <div class="Card-title"><span>Dijkstra's Algorithm</span></div>
         <div class="Card-explore"><span>Explore more datasets</span></div>
