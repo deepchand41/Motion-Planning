@@ -88,7 +88,7 @@ Planning is a term that means different things to different groups of people. Ro
           <div class="Card-shadow"></div>
           <div class="Card-shadow"></div>
           <div class="Card-shadow"></div>
-          <div class="Card-image" style="background-image: url(https://kissflow.com/hs-fs/hubfs/IT_Operations_icons-22.png?width=314&height=313&name=IT_Operations_icons-22.png)"></div>
+          <div class="Card-image" style="background-image: url(https://miro.medium.com/max/1400/1*1GfydKFw9AeqtDZZlI6JPA.jpeg)"></div>
         </div>
         <div class="Card-title"><span>RRT</span></div>
         <div class="Card-explore"><span>Explore Algorithm</span></div>
@@ -103,7 +103,7 @@ Planning is a term that means different things to different groups of people. Ro
             <div class="Card-shadow"></div>
             <div class="Card-shadow"></div>
             <div class="Card-shadow"></div>
-            <div class="Card-image" style="background-image: url(https://www.gatevidyalay.com/wp-content/uploads/2020/01/A-Algorithm-Problem-02.png)"></div>
+            <div class="Card-image" style="background-image: url(https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/submissions/60993/versions/2/screenshot.png)"></div>
         </div>
         <div class="Card-title"><span>RRT*</span></div>
         <div class="Card-explore"><span>Explore Algorithm</span></div>
@@ -115,7 +115,7 @@ Planning is a term that means different things to different groups of people. Ro
             <div class="Card-shadow"></div>
             <div class="Card-shadow"></div>
             <div class="Card-shadow"></div>
-            <div class="Card-image" style="background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Breadth-first-tree.svg/1200px-Breadth-first-tree.svg.png)"></div>
+            <div class="Card-image" style="background-image: url(https://www.mathworks.com/help/examples/robotics/win64/TuneTheNumberOfNodesExample_03.png)"></div>
         </div>
         <div class="Card-title"><span>Probabilistic Road Map</span></div>
         <div class="Card-explore"><span>Explore Algorithm</span></div>
@@ -128,7 +128,7 @@ Planning is a term that means different things to different groups of people. Ro
             <div class="Card-shadow"></div>
             <div class="Card-shadow"></div>
             <div class="Card-shadow"></div>
-            <div class="Card-image" style="background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Depth-first-tree.svg/1200px-Depth-first-tree.svg.png)"></div>
+            <div class="Card-image" style="background-image: url(https://www.researchgate.net/profile/James-Harrison-30/publication/319896312/figure/fig2/AS:807620436844545@1569563125260/A-fast-marching-tree-FMT-generated-with-learned-samples-for-a-double-integrator.ppm)"></div>
         </div>
         <div class="Card-title"><span>Depth First Search</span></div>
         <div class="Card-explore"><span>Explore Algorithm</span></div>
